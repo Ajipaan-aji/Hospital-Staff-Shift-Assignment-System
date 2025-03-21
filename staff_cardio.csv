@@ -1,0 +1,33 @@
+Department,Staff_ID,Staff_Name,Staff_Type,Years_of_Experience
+Cardiology,CAD10,Brenda Scott,Doctor,3
+Cardiology,CAD11,Steven Torres,Doctor,6
+Cardiology,CAD12,Sarah Gonzales,Doctor,4
+Cardiology,CAD13,William Marshall,Doctor,3
+Cardiology,CAD14,Benjamin Kerr,Doctor,5
+Cardiology,CAD15,Michael Rose,Doctor,4
+Cardiology,CAD16,Tina Nguyen DVM,Doctor,6
+Cardiology,CAD17,Katrina Jackson,Doctor,5
+Cardiology,CAD18,Lindsey Perry,Nurse,1
+Cardiology,CAD19,Scott Johns,Nurse,2
+Cardiology,CAD20,Andrea Sanchez,Nurse,2
+Cardiology,CAD21,Christian Anderson,Nurse,2
+Cardiology,CAD22,Dr. Adrienne Jimenez,Nurse,2
+Cardiology,CAD23,James Maxwell,Nurse,1
+Cardiology,CAD24,Miss Holly Pollard,Nurse,2
+Cardiology,CAD25,Vincent Willis,Nurse,1
+Cardiology,CAD26,Janice Green,Nurse,1
+Cardiology,CAD27,Paul Hernandez,Nurse,2
+Cardiology,CAD28,Lauren Middleton,Nurse,2
+Cardiology,CAD29,Jared Rivera,Nurse,1
+Cardiology,CAD30,Mary Lozano,Nurse,1
+Cardiology,CAD31,William Hayes,Nurse,1
+Cardiology,CAD32,Diane Moore,Nurse,2
+Cardiology,CAD33,Antonio Hernandez,Nurse,2
+Cardiology,CAD34,Stephanie Mcclure,Technician,2
+Cardiology,CAD35,Emily Johnson,Technician,2
+Cardiology,CAD36,James Erickson,Technician,1
+Cardiology,CAD37,Douglas Flores,Technician,2
+Cardiology,CAD38,Michele Harper,Technician,2
+Cardiology,CAD39,Bradley Taylor,Technician,1
+Cardiology,CAD40,Deborah Hoffman,Technician,2
+Cardiology,CAD41,Roger Reyes,Technician,2
